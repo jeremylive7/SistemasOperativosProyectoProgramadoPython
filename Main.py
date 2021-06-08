@@ -5,9 +5,9 @@ if __name__ == '__main__':
     controlador.runCommands()
     #continue..
 
-
+    #while True:
+    #    terminalCommand = input("\nTerminalPython >>> ")
+    #    eval("controlador."+terminalCommand)
     
-    while True:
-        terminalCommand = input("\nTerminalPython >>> ")
-        eval("controlador."+terminalCommand)
+    #Interfaz gtk
     

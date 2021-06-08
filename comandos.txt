@@ -1,0 +1,3 @@
+create(fetch_policy="pre-paging", replacement_policy="LFU", replacement_scope="Local")
+
+run()
